@@ -2,13 +2,13 @@
 
 ## Hi there 👋, I'm Ashim
 
-As a senior software developer and UI/UX designer, I enjoy crafting clean, functional applications that blend thoughtful design with real-world impact. I thrive on building intuitive user experiences, writing maintainable code, and turning ideas into reliable, elegant software. Whether it's shaping a smooth front-end interface or architecting a solid back-end, I’m driven by a passion for purposeful, user-focused development.
+As a software developer and UI/UX designer, I enjoy crafting clean, functional applications that blend thoughtful design with real-world impact. I thrive on building intuitive user experiences, writing maintainable code, and turning ideas into reliable, elegant software. Whether it's shaping a smooth front-end interface or architecting a solid back-end, I’m driven by a passion for purposeful, user-focused development.
 
 <br>
 
 ### More About Me
 
-- 💼 Senior Software Developer at [**Mutesoft Technologies**](https://mutesoft.com/).
+- 💼 Software Developer at [**Mutesoft Technologies**](https://mutesoft.com/).
 - 🔭 Currently working on updating my [**Portfolio**](https://ashimsaha.net/) website.
 - 🧠 Passionate about building clean, practical software solutions.
 - 🚀 Built [**QR Picker**](https://qrpicker.com/): a professional QR code generator for [**web**](https://qrpicker.com/) and [**Chrome**](https://chromewebstore.google.com/detail/odmflkpkpjbneglnkhocaildbhjiefch).
