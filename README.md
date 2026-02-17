@@ -14,6 +14,7 @@ As a Software Developer | UI Engineer, I enjoy crafting clean, functional applic
 - 🚀 Built [**QR Picker**](https://qrpicker.com/): a professional QR code generator for [**web**](https://qrpicker.com/) and [**Chrome**](https://chromewebstore.google.com/detail/odmflkpkpjbneglnkhocaildbhjiefch).
 - 💬 Happy to chat about anything tech.
 - 📫 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/ashimsahadev/).
+- 📄 View my [**Resume**](https://ashimsaha.net/resume.pdf)
 
 <br>
 
