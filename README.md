@@ -2,7 +2,9 @@
 
 ## Hi there 👋, I'm Ashim
 
-As a Software Developer | UI Engineer, I enjoy crafting clean, functional applications that blend thoughtful design with real-world impact. I thrive on building intuitive user experiences, writing maintainable code, and turning ideas into reliable, elegant software. Whether it's shaping a smooth front-end interface or architecting a solid back-end, I’m driven by a passion for purposeful, user-focused development.
+I’m a Full Stack Software Engineer (UI-Focused) with 6+ years of experience building scalable, high-performance web applications. I enjoy crafting clean, intuitive user interfaces backed by reliable backend systems, with a strong emphasis on frontend architecture, performance, and maintainability.
+
+I care deeply about writing understandable code, designing thoughtful user experiences, and building software that delivers real-world impact—whether that’s improving system efficiency, usability, or long-term scalability.
 
 <br>
 
